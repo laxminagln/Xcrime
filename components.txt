@@ -1,0 +1,4 @@
+Android studio
+Knowledge in java, xml
+Dataset (photos)
+php, sql, csv file
