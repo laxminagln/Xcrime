@@ -1,4 +1,4 @@
 Android studio
-Knowledge in java, xml
+Knowledge in dart, yaml, flutter
 Dataset (photos)
 php, sql, csv file
